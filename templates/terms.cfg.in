@@ -1,4 +1,4 @@
-[config]
+[default]
 dbms = ${config:dbms}
 dbname = ${config:dbname}
 http_host = ${config:http_host}
