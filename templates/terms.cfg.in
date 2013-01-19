@@ -1,0 +1,8 @@
+[default]
+dbms = ${default:dbms}
+dbname = ${default:dbname}
+http_host = ${default:http_host}
+http_port = ${default:http_port}
+time = ${default:time}
+instant_duration = ${default:instant_duration}
+apps = ${default:apps}

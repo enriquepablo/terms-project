@@ -1,0 +1,12 @@
+[config]
+dbms = postgresql://terms:terms@localhost
+dbname = robots_test
+http_host = localhost
+http_port = 8080
+time = normal
+instant_duration = 0
+apps =
+#    terms.app.people
+
+[sources]
+#terms.app.people = git git://github.com/enriquepablo/terms.app.people.git
