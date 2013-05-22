@@ -1,8 +1,5 @@
 [default]
 dbms = ${config:dbms}
 dbname = ${config:dbname}
-http_host = ${config:http_host}
-http_port = ${config:http_port}
 time = ${config:time}
 instant_duration = ${config:instant_duration}
-apps = ${config:apps}
