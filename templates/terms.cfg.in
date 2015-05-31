@@ -19,3 +19,5 @@ commit_many_consecuences = ${config:commit_many_consecuences}
 
 terms_history_file = ${config:terms_history_file}
 terms_history_length = ${config:terms_history_length}
+
+daemonize = ${config:daemonize}
